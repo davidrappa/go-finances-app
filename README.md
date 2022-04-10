@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/LOGO.png" width="35%" />
+  <img src="src/assets/LOGO.png" width="35%" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/APP.png" width="85%" />
+  <img src="src/assets/APP.png" width="85%" />
 </p>
 
 ## :computer: Projeto
