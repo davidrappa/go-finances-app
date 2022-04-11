@@ -1,6 +1,6 @@
 ## :computer: Projeto
 
-MyWallet é um aplicativo de finanças pessoais, no qual você pode registrar suas transações e monitorá-las, observado as entradas, saídas, saldo e gastos por categoria e data. É um app perfeito para se organizar!
+GoFinances é um aplicativo de finanças pessoais, no qual você pode registrar suas transações e monitorá-las, observado as entradas, saídas, saldo e gastos por categoria e data. É um app perfeito para se organizar!
 
 ## :zap: Tecnologias
 
